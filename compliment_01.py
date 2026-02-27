@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Evan Ramos      
+# DATE: February 26, 2026
+# BRIEF DESCRIPTION:  Writing a solution for a compliment prompt
 
 
 
@@ -14,7 +14,12 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+answer = input("Would you like a compliment? ")
 
+if answer == "yes":
+    print("You have wonderful eyes.")
+
+print("Thank you for playing.")
 
 
 
@@ -66,12 +71,12 @@ Thank you for playing.
 '''
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
-
+I would rate this lab a 2 on the difficulty scale.
 
 
 
 2. What was the hardest part of this lab?
-
+Remembering to add the second equal sign to the second line of code.
 
 
 
